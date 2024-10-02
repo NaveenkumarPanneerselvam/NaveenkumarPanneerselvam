@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenkumarpanneerselvam" alt="naveenkumarpanneerselvam" /></a> </p>
 
-- 🔭 I’m currently working on **Versatile Electronics Store**
+- 🔭 I’m currently working on [Versatile Electronics Store](https://naveenkumarpanneerselvam.github.io/Versatile-Electronics-Store/)
 
-- 🌱 I’m currently learning **Full Stack Course**
+- 🌱 I’m currently learning **Full Stack Course(MERN)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NaveenkumarPanneerselvam](https://github.com/NaveenkumarPanneerselvam)
 
