@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naveenkumar Panneerselvam</h1>
 <h3 align="center">A Engineering Student and Full Stack Developer with Basic Technical Knowledge .And learning new things in day to day life.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumarpanneerselvam&label=Profile%20views&color=ff0040&style=flat-square" alt="naveenkumarpanneerselvam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumarpanneerselvam&label=Profile%20views&color=ff0040&style=plastic" alt="naveenkumarpanneerselvam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveenkumarpanneerselvam" alt="naveenkumarpanneerselvam" /></a> </p>
 
@@ -29,4 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveenkumarpanneerselvam&show_icons=true&locale=en&layout=compact" alt="naveenkumarpanneerselvam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumarpanneerselvam&show_icons=true&theme=dark&title_color=09d374&hide_border=true&locale=en" alt="naveenkumarpanneerselvam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveenkumarpanneerselvam&show_icons=true&title_color=000000&locale=en" alt="naveenkumarpanneerselvam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveenkumarpanneerselvam&" alt="naveenkumarpanneerselvam" /></p>
